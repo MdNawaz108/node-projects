@@ -1,0 +1,14 @@
+#node modules
+node_modules/
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore configuration files with sensitive data (e.g., .env)
+.env
+/dist
+# Ignore JavaScript files (assuming TypeScript files have a .js extension)
+*.js
+
+
